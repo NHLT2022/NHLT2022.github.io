@@ -6,7 +6,23 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Jun 2023 16:01:25 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 13:13:56 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Questions</title>
+      <link>/posts/questions/</link>
+      <pubDate>Sat, 01 Jul 2023 13:13:56 +0800</pubDate>
+      
+      <guid>/posts/questions/</guid>
+      <description>
+        
+          
+            以下为我在创建博客过程中遇到的问题： 1.在创建主题目录的过程中没有打开文件夹复制里面的正确内容，而选择复制整个文件夹。导致出现错误无法继续操作。通过自己检查找到了问题所在并改正了错误。 2.创建仓库过程中没有找到.git文件，通过询问同学得到解答，并成功并启显示隐藏文件。 3.无法登录github，为网络问题，经历一定时间的等待得以解决问题。
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>MyFirstArticles</title>
       <link>/posts/myfirstarticles/</link>
